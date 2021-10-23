@@ -1,0 +1,46 @@
+body{
+    font-family: 'Balsamiq Sans';
+}
+
+.heading{
+    width: 100%;
+}
+
+.heading h1{
+    display:inline;
+    margin-right: -100px;
+}
+
+.Instructions{
+    float: right;
+}
+
+.MarioIMG{
+    width:100%;
+}
+
+#start{
+    font-size: 25px;
+}
+
+#SRC{
+    background-color: white;
+    margin-bottom: 0px;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.InstructionImages{
+    display: inline-block;
+    width: 45%;
+}
+
+video{
+    background: url("game_console.png");
+    background-size:cover;
+    background-position: center;
+    padding: 13px;
+}
+
